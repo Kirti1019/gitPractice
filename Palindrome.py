@@ -51,5 +51,5 @@ def palindrome(n):
 # str = 'nitin'
 # print(palindrome(str))
 
-num = 121
+num = 122
 print(palindrome(num))
